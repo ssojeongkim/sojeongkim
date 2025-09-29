@@ -1,4 +1,5 @@
 # sojeongkim
 
 
-https://github.com/wikibook/python-ds-handbook/blob/master/notebooks/02.08-Sorting.ipynb
+데이터 다운로드
+https://github.com/wikibook/python-ds-handbook/tree/master/notebooks/data
